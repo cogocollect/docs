@@ -2,7 +2,47 @@
 
 # Algemeen
 
-> Deze pagina beschrijft de functionaliteit van Cogo Collect
+Cogo Collect is een app om uiteenlopende geo-data te registreren. Er kunnen punten, lijnen en vlakken worden
+gedigitaliseerd, op basis van de gebruikers’ locatie (GPS) of handmatige invoer op een kaart. De geografische objecten
+kunnen een beschrijving krijgen die op basis van een vooraf gemaakt template of vrije invoer. Daarnaast kan een bijlage
+zoals foto worden toegevoegd.
+
+# Inloggen
+
+Muteren in Cogo Collect kan alleen wanneer je bent ingelogd. De inloggegevens bestaan uit een _Gebruikersnaam_ en een
+_Wachtwoord_. De _Gebruikersnaam_ is jouw emailadres binnen de organisatie account. Het _Wachtwoord_ ontvang je per
+email, nadat
+de beheerder jouw account heeft aangemaakt.
+
+> N.B.: Jouw credentials zijn strikt persoonlijk en alleen bij jou bekend
+
+Bij de eerste stap maak je je bekend aan het systeem via je _Gebruikersnaam_.
+
+Na 8 uur inactiviteit met de app logt deze automatisch uit als veiligheidsmaatregel. Je zult daarna dus opnieuw moeten
+inloggen om gebruik te kunnen maken van de app.
+
+## Azure AD
+
+## Wachtwoord vergeten
+
+Als je jouw wachtwoord bent vergeten, druk je op de knop _Forgot Password_ of _Wachtwoord vergeten_ onderaan het
+inlogscherm.
+Vul jouw emailadres in en klik op _Versturen_. Je ontvangt een email met een code om je wachtwoord te wijzigen.
+
+Vul vervolgens de code die is verstuurd in en het nieuwe wachtwoord, ook een twee keer ter bevestiging.
+
+> Let op: de code die wordt verstuurd is 5 minuten geldig. Vraag een nieuwe code aan als het invullen langer duurt dan 5
+> minuten
+
+# Topics
+
+Een topic is een groep van kaartlagen die gebruikt worden voor het bijhouden van gegevens over een bepaald onderwerp.
+Binnen een topic vervullen de kaartlagen meestal een eigen functie, zoals een hoofdobject en subobjecten. Bij de eerste
+keer openen van een topic worden de gegevens van alle kaartlagen gedownload naar een lokale database.
+
+# De kaart
+
+De kaartweergave is de centrale plek van de applicatie.
 
 ## Verkennen
 
